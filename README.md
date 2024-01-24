@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Asahi Toledo</h1>
 <h3 align="center"> Me veo como licenciado, hablo como licenciado y parezco licenciado, pero soy un Ingeniero Aeronáutico... Y si también programo 👀😂</h3>
 
-- 📫 Puedes escribirme a **asahitoledo@hotmail.com**
+- 📫 Puedes escribirme a **asahitoledo@outlook.com**
 
 - ⚡ Fun fact **Se de muuuuuchos temas, proteccion civil, aeronáutica, administración, circuitos electrónicos, legislación mexicana, transparencia y acceso a la informacion publica, mis hobbie son las películas, videojuegos, tomar cafe, las series (mi favorita los Simpson) y un largo etc...**
 
